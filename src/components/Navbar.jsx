@@ -68,7 +68,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full tetx-grey-400 "
-              href="/"
+              href="mailto:githinjit52@gmail.com"
               target="blank"
             >
               Mail
