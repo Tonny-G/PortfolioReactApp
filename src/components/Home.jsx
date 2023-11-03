@@ -16,7 +16,7 @@ const Home = () => {
           I am a Full Stack developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I am a full-stack developer specializing in developing (and
+          I am a full-stack developer specializing in building (and
           occasionally designing) exceptional web applications and other digital
           experiences. I am currently focused on building responsive full-stack
           web applications
