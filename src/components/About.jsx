@@ -18,7 +18,7 @@ function About() {
           </div>
           <div>
             <p>
-              I am passionate about building softwares that improve the lives of
+              I am passionate about building software that improve the lives of
               those around me. I specialize in building softwares for clients
               ranging from individuals and small-business entriprises all the
               way to large enterprise corporations. What would you do if you had
