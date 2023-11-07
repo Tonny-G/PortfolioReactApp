@@ -1,4 +1,4 @@
-![image](https://github.com/Tonny-G/PortfolioReactApp/assets/107466380/9e5e7bd4-f4cd-473d-b347-2c8e636d2e83)# PortfolioReactApp
+# Tonny's Portfolio App
 ## Demo link
 https://tonny-s-portfolio-9337e.web.app/
 
