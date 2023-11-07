@@ -9,7 +9,7 @@ const Contact = () => {
       <form
         className="max-w-[600px] w-full flex flex-col"
         action="https://getform.io/f/7b2ceed4-6770-4d6f-98a2-1987e7ffc2bb"
-        method='POST'
+        method="POST"
       >
         <div className="text-gray-300 pb-8">
           <p className="text-4xl font-bold  border-b-4 inline border-yellow-600">
@@ -20,8 +20,11 @@ const Contact = () => {
             icon
           </p>
           <p className="pb-4 text-sm">
-            My email: githinjit52@gmail.com
-            <i> incase side icon is not visible</i>
+            My email: <span className='text-md text-yellow-600 font-bold'>githinjit52@gmail.com</span>
+            <i>
+              incase left side icon is not visible.{" "}
+              <span className="text-sm">(Phone view)</span>
+            </i>
           </p>
         </div>
         <input
