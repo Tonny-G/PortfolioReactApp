@@ -6,6 +6,7 @@ import javascript from '../assets/javascript.png'
 import react from '../assets/react.png'
 import tailwind from '../assets/tailwind.png'
 import firebase from '../assets/firebase.png'
+import vercel from '../assets/vercel.svg'
 
 const Skills = () => {
   return (
@@ -16,9 +17,7 @@ const Skills = () => {
           <p className="text-4xl font-bold inline border-b-4 border-yellow-600">
             Skills
           </p>
-          <p className="py-4">
-            Below are technologies I'm proficient in:
-          </p>
+          <p className="py-4">Below are technologies I'm proficient in:</p>
         </div>
         {/**icons container */}
         <div className="w-full  grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
@@ -55,6 +54,11 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={github} alt="HTML icon" />
             <p>GITHUB</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={vercel} alt="HTML icon" />
+            <p>VERCEL</p>
           </div>
         </div>
       </div>
